@@ -25,7 +25,7 @@ MONGO_URI=mongodb://127.0.0.1:27017/miniapp
 Run:
 
 ```bash
-npm run dev
+nodemon index.js
 ```
 
 Server:
